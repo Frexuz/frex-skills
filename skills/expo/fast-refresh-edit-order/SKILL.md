@@ -3,7 +3,7 @@ name: fast-refresh-edit-order
 description: >-
   Orders multi-step Expo and React Native edits so Metro Fast Refresh never
   sees a broken file (red error overlay, lost state, full reload). Use when
-  editing apps/xorro-mobile or any Expo project while Metro is running, or when
+  editing apps/mobile or any Expo project while Metro is running, or when
   adding or removing imports, components, hooks, or cross-file symbols.
 license: MIT
 ---
